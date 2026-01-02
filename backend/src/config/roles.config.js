@@ -1,0 +1,8 @@
+const ROLES = {
+  DRIVER: 'DRIVER',
+  ORGANIZATION: 'ORGANIZATION',
+  ADMIN: 'ADMIN',
+  SUPERADMIN: 'SUPERADMIN'
+};
+
+export default ROLES;
